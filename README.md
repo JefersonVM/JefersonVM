@@ -1,5 +1,5 @@
 <div>
-<p><a href="https://www.dfilitto.com.br"><img src="https://www.theglobeandmail.com/resizer/OF-NV-cgON6X22OPfuUfT6Kdfps=/600x0/filters:quality(80):format(jpeg)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/3LGNJEZ6MNG5VILX7W5EEJ6BAQ" width="100%" height="auto"/></a></p>
+<p><a href="https://www.dfilitto.com.br"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tecmundo.com.br%2Fmercado%2F222806-5-linguagens-programacao-usadas-2021.htm&psig=AOvVaw2-ef88enW0buXxiLEWM1jL&ust=1675027305963000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjatI6Z6_wCFQAAAAAdAAAAABAE" width="100%" height="auto"/></a></p>
 <p align="right">
    <a style="text-align: right; padding: 0px;" href="https://www.youtube.com/channel/UCNQ9TieT_TboNvL4nkWEE8Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jehhfhh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
