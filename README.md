@@ -30,7 +30,9 @@
  <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
             
           
- </p>        
+ </p>       
+ 
+ <h2>Estatísticas</h2>
 
 
 
