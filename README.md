@@ -20,9 +20,9 @@ Atuo na área acadêmica como professor desde 2006. Atualmente leciono no SENAC 
 
 As Área de Pesquisa em qual atuo são: desenvolvimento de Softwares, estrutura de dados, processamento de imagens digitais, redes de computadores e desenvolvimento de jogos.</p>
 
-<div display="in-line">
+<div>
 <a href="https://github.com/JefersonVM">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonVM&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefersonVM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" width="1000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonVM&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" width="1000px" src="https://github-readme-stats.vercel.app/api?username=JefersonVM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
    
