@@ -14,11 +14,25 @@
 <p>Meu nome é Jeferson Vieira, sou formado em Engenharia da Computação pela Universidade Cidade de São Paulo, atualmente estou estudando desenvolvimento Web Full Stack na Escola de Tecnologia com foco em programação "Trybe", buscando novos conhecimentos na área.
 
 <h2>Estou Aprendendo</h2>
+ <p>
+ 
+ <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          
+          
+ 
+ <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
+   
+   
+ <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   
+ 
+ <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+            
+          
+ </p>        
 
 
-Atuo na área acadêmica como professor desde 2006. Atualmente leciono no SENAC (Serviço Nacional de Aprendizagem Comercial) da cidade de Presidente Prudente. Além de professor sou desenvolvedor de jogos, palestrante e mantenedor dos sites <a href="https://www.dfilitto.com.br">DFILITTO</a> e <a href="https://www.makeindiegames.com.br">Make Indie Games</a>.
-
-As Área de Pesquisa em qual atuo são: desenvolvimento de Softwares, estrutura de dados, processamento de imagens digitais, redes de computadores e desenvolvimento de jogos.</p>
 
 <div>
 <a href="https://github.com/JefersonVM">
