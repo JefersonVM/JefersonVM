@@ -11,7 +11,7 @@
 
 ![Snake animation](https://github.com/JefersonVM/JefersonVM/blob/output/github-contribution-grid-snake.svg)
 
-<p>Meu nome é Jeferson Vieira, sou formado em Engenharia da Computação pela Universidade Cidade de São Paulo, atualmente estou estudando <i>Desenvolvimento Web Full Stack</i> na Escola de Tecnologia com foco em programação <strong>Trybe</strong> <img src="https://github.com/JefersonV M/Jeferson VM/blob/main/icon2_trybe.png?raw=true"width="20px" height="20px"/>, buscando novos conhecimentos sempre e aprendendo à aprender todos os dias.😊
+<p>Meu nome é Jeferson Vieira, sou formado em Engenharia da Computação pela Universidade Cidade de São Paulo, atualmente estou estudando <i>Desenvolvimento Web Full Stack</i> na Escola de Tecnologia com foco em programação <strong>Trybe</strong> <img src="https://github.com/JefersonVM/JefersonVM/blob/main/icon2_trybe.png?raw=true?raw=true"width="20px" height="20px"/>, buscando novos conhecimentos sempre e aprendendo à aprender todos os dias.😊
 
 <h2>Estou Aprendendo</h2>
  <p>
