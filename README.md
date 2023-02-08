@@ -11,7 +11,7 @@
 
 
 
-<p>Meu nome é Jeferson Vieira, sou formado em Engenharia da Computação pela Universidade Cidade de São Paulo, atualmente estou estudando <i>Desenvolvimento Web Full Stack</i> na Escola de Tecnologia com foco em programação, buscando novos conhecimentos sempre e aprendendo à aprender todos os dias.😊
+<p>Meu nome é Jeferson Vieira, sou formado em Engenharia da Computação pela Universidade Cidade de São Paulo, buscando novos conhecimentos sempre e aprendendo à aprender todos os dias.😊
 
 <h2>Estou Aprendendo</h2>
  <p>
