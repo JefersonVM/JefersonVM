@@ -11,7 +11,7 @@
 
 
 
-<p>Meu nome é Jeferson Vieira, sou formado em Engenharia da Computação pela Universidade Cidade de São Paulo, buscando novos conhecimentos sempre e aprendendo à aprender todos os dias.😊
+<p>Meu nome é Jeferson Vieira, sou formado em Engenharia de Computação pela Universidade Cidade de São Paulo, buscando novos conhecimentos sempre e aprendendo à aprender todos os dias.😊
 
 <h2>Estou Aprendendo</h2>
  <p>
