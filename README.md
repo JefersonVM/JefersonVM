@@ -40,8 +40,8 @@
 
 <div>
 <a href="https://github.com/JefersonVM">
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonVM&layout=compact&langs_count=7&theme=dracula"/>
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=JefersonVM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonVM&layout=compact&langs_count=7&theme=dracula"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=JefersonVM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <picture>
