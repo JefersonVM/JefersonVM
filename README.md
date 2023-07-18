@@ -2,7 +2,7 @@
 <p><a href="https://www.linkedin.com/in/jeferson-vm1981/"><img src="https://raw.githubusercontent.com/JefersonVM/JefersonVM/main/capa_programacao.webp" width="100%" height="auto"/></a></p>
 <p align="right">
    <a style="text-align: right; padding: 0px;" href="https://www.youtube.com/channel/UCNQ9TieT_TboNvL4nkWEE8Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/jehhfhh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
   <a href="https://www.linkedin.com/in/jeferson-vm1981/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 </div>
@@ -27,7 +27,7 @@
  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    
  
- <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+ 
 
  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             
