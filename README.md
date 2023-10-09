@@ -30,6 +30,10 @@
  
 
  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ 
+
+ <img height="50px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-3-1174937.png" />
+
 
 
  <img height="50px" width="50px" src="https://img2.gratispng.com/20180315/eaq/kisspng-postgresql-logo-computer-software-database-open-source-vector-images-5aaa26e1c85aa8.1698545015211005138207.jpg" />
